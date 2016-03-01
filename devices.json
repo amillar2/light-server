@@ -1,0 +1,12 @@
+{
+	"kitchen light":{
+		"ip":"http://localhost",
+		"port":5000,
+		"ch":"ch0"
+	},
+	"living room light":{
+		"ip":"http://localhost",
+		"port":5000,
+		"ch":"ch1"
+	}
+}
